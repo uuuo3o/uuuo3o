@@ -6,7 +6,7 @@
   
 ## Hello😊, I am JIN!
 - 🏠 Ulsan, Korea
-- 🏫 Incheon National University(Songdo Campus), Computer Engineering (2020.03. ~)  
+- 🏫 Incheon National University(Songdo Campus), Dept.of Computer Science & Engineering (2020.03. ~)  
 
    
   
